@@ -24,9 +24,10 @@ The goals / steps of this project are the following:
 [image6]: ./right_2017_04_19_08_05_21_357.jpg "Right image"
 
 Please click on the image below to view the result of my simulation run.
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=8Dbd-E2C1H0
-" target="_blank"><img src="http://img.youtube.com/vi/8Dbd-E2C1H0/0.jpg" 
-alt="Click to watch video" width="240" height="180" border="10" /></a>
+" target="_blank"><img src="https://raw.githubusercontent.com/pyau/CarND-P3-Behavioral_Cloning/master/screenshot_screencap.png" 
+alt="Click to watch video" width="480" height="360" border="10" /></a>
 
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
@@ -92,9 +93,10 @@ I had implemented fit generator in a separate file clone.py in the same reposito
 At the end of the process, the vehicle is able to drive autonomously around the track at 30 mph without leaving the road.
 
 Click on the image below to see the result of the video generation from drive.py output, or you can find the same video in video.mp4 in the same repository.
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=f5Exs0wZ7_0
-" target="_blank"><img src="http://img.youtube.com/vi/f5Exs0wZ7_0/0.jpg" 
-alt="Click to watch video" width="240" height="180" border="10" /></a>
+" target="_blank"><img src="https://raw.githubusercontent.com/pyau/CarND-P3-Behavioral_Cloning/master/screenshot_video.png" 
+alt="Click to watch video" width="480" height="360" border="10" /></a>
 
 ####2. Final Model Architecture
 
